@@ -1,0 +1,157 @@
+[
+    {
+        "id": "1680703811676",
+        "name": "15 de Febrero",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680703830826",
+        "name": "Bosque Alegre",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680703847392",
+        "name": "Centro",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680703862277",
+        "name": "Chacras de la Villa 1",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680703880955",
+        "name": "Condor Alto",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680703896105",
+        "name": "Condor Bajo",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680703914804",
+        "name": "Cumbres",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680703946536",
+        "name": "El Ceibo",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680703970234",
+        "name": "Espa\u00c3\u00b1ol",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680703986293",
+        "name": "Industrial",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680704339367",
+        "name": "Jard\u00c3\u00adn de Epicuro",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680704355315",
+        "name": "La Amalia",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680704369945",
+        "name": "La Cruz",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680704387600",
+        "name": "La Herradura",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680704402887",
+        "name": "La Paloma",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680704419955",
+        "name": "Las Lomitas",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680704435531",
+        "name": "Las Polinesias",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680704451413",
+        "name": "Las Rosas",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680704466925",
+        "name": "Lomas Este",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680704484125",
+        "name": "Lomas Oeste",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680704498595",
+        "name": "Lomas Sur",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680704513579",
+        "name": "Pan de Az\u00c3\u00bacar",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680704528606",
+        "name": "San Alfonso",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680704544408",
+        "name": "San Clemente",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680704565482",
+        "name": "San Isidro",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680704579429",
+        "name": "Terrazas de la Villa",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680704603055",
+        "name": "Villa Brizuela",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680704646941",
+        "name": "Golf",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "id": "1680704659887",
+        "name": "Villa Allende Parque",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "name": "cumbres barrio C ",
+        "id": "1684947753267",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    },
+    {
+        "name": "La Morada",
+        "id": "1690571559702",
+        "municipality_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+    }
+]

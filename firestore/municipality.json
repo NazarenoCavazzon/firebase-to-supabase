@@ -1,0 +1,120 @@
+[
+{
+  "approved": true,
+  "contact_information": {
+    "whatsapp": "",
+    "address": "",
+    "web": "",
+    "facebook": "",
+    "instagram": ""
+  },
+  "email": "com@villaallende.gov.ar",
+  "id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2",
+  "is_test": false,
+  "name": "Municipalidad de Villa Allende",
+  "photo": "",
+  "phones": [
+    ""
+  ],
+  "role": "municipio",
+  "tycs": {
+    "title": "",
+    "url": ""
+  },
+  "location_data": {
+    "longitude": -64.29527,
+    "latitude": -31.29444,
+    "zoom": 13
+  },
+  "firestore_id": "4S6pZoqBHLZmdo2nQkELtu3IGuh2"
+},
+{
+  "contact_information": {
+    "address": "",
+    "facebook": "",
+    "instagram": "",
+    "web": "",
+    "whatsapp": ""
+  },
+  "is_test": true,
+  "photo": "",
+  "email": "mp3@mp3.com",
+  "id": "NjURkdk8VzYCsqCGalezZRAfoLJ2",
+  "name": "muniPrueba03",
+  "phones": [
+    ""
+  ],
+  "role": "municipio",
+  "tycs": {
+    "title": "",
+    "url": ""
+  },
+  "approved": true,
+  "location_data": {
+    "latitude": -31.29444,
+    "longitude": -64.29527,
+    "zoom": 13
+  },
+  "firestore_id": "NjURkdk8VzYCsqCGalezZRAfoLJ2"
+},
+{
+  "approved": true,
+  "email": "somosibis@gmail.com",
+  "id": "OEJ5iz3YbWatvkSb2nroJRcjax92",
+  "is_test": true,
+  "contact_information": {
+    "address": "San Justo 586, Villa allende",
+    "facebook": "https://es-la.facebook.com/municipalidadvillaallende/",
+    "instagram": "https://www.instagram.com/vamunicipio/?hl=es-la",
+    "web": "https://villaallende.gob.ar/s",
+    "whatsapp": "3543576565"
+  },
+  "name": "Muni Prueba",
+  "role": "municipio",
+  "tycs": {
+    "title": "",
+    "url": ""
+  },
+  "photo": "https://firebasestorage.googleapis.com/v0/b/ibis-sos.appspot.com/o/municipality%2FOEJ5iz3YbWatvkSb2nroJRcjax92.jpg?alt=media&token=04021511-de81-437d-8d39-2fb757c7d0eb",
+  "phones": [
+    "3543576565",
+    "3543000001",
+    "3543000002"
+  ],
+  "location_data": {
+    "latitude": -31.29444,
+    "longitude": -64.29527,
+    "zoom": 13
+  },
+  "firestore_id": "OEJ5iz3YbWatvkSb2nroJRcjax92"
+},
+{
+  "approved": true,
+  "contact_information": {
+    "facebook": "",
+    "addres": "",
+    "instagram": "",
+    "web": "",
+    "whatsapp": ""
+  },
+  "email": "mp4@mp4.com",
+  "id": "SFBzMDkhV5fgcshtU4HnkxnLqAH2",
+  "is_test": true,
+  "name": "muniPrueba04",
+  "photo": "",
+  "phones": [
+    ""
+  ],
+  "role": "municipio",
+  "tycs": {
+    "title": "",
+    "url": ""
+  },
+  "location_data": {
+    "latitude": -31.29444,
+    "longitude": -64.29527,
+    "zoom": 13
+  },
+  "firestore_id": "SFBzMDkhV5fgcshtU4HnkxnLqAH2"
+}
+]

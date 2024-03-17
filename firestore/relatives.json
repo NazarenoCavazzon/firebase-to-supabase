@@ -1,0 +1,32 @@
+[
+    {
+        "relation_id": 1,
+        "accepted": true,
+        "receiver_id": "QtBOxoJM4QU5cOEncqB4pH24SXt2",
+        "sender_id": "0DA2smqrF0P8Wgwl7x8inaHKhUC2"
+    },
+    {
+        "relation_id": 2,
+        "accepted": true,
+        "receiver_id": "sKNvHNyitne9UeOvL02ivUufFMI3",
+        "sender_id": "2rdpkSRZpAQH2rtD3DcgYvcFBzG3"
+    },
+    {
+        "relation_id": 3,
+        "accepted": true,
+        "receiver_id": "HnA2cYBBCiUaQrFtceBJ4e6CAEe2",
+        "sender_id": "3TEmHHirImTlOXG3424lT48Kn9q1"
+    },
+    {
+        "relation_id": 1,
+        "accepted": true,
+        "receiver_id": "pkfIKnrcewN02B1T91BBhi1v3K42",
+        "sender_id": "3h88nqZ1DqSPcRF5kkzs8WFtGky2"
+    },
+    {
+        "relation_id": 1,
+        "accepted": true,
+        "receiver_id": "iE7jNGxC0YTRUDdVJbsYFoXhNC83",
+        "sender_id": "3lg8ANXZ5fVaSZzIeoa8uP2Wq5q1"
+    }
+]

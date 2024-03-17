@@ -28,7 +28,7 @@ async function main(collectionName: string, batchSize: string, limit: string) {
     //     process.exit(1);
     // } else {
         await getAll(collectionName, 0, parseInt(batchSize), parseInt(limit));
-    // }    
+    // }
 }
 
 async function getAll(collectionName: string, offset: number, batchSize: number, limit: number) {
@@ -63,7 +63,7 @@ async function getBatch(collectionName: string, offset: number, batchSize: numbe
       snapshot.forEach(fsdoc => {
         let doc = fsdoc.data();
         if (!doc.firestore_id) doc.firestore_id = fsdoc.id;
-        else if (!doc.firestoreid) doc.firestoreid = fsdoc.id;   
+        else if (!doc.firestoreid) doc.firestoreid = fsdoc.id;
         else if (!doc.original_id) doc.original_id = fsdoc.id;
         else if (!doc.originalid) doc.originalid = fsdoc.id;
         console.log('processDocument', typeof processDocument);
@@ -77,5 +77,5 @@ async function getBatch(collectionName: string, offset: number, batchSize: numbe
     .catch(err => {
         error = err;
     });
-    return {data, error};        
+    return {data, error};
 }
